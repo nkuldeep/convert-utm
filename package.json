@@ -1,0 +1,23 @@
+{
+  "name": "convert-utm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkuldeep/convert-utm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkuldeep/convert-utm/issues"
+  },
+  "homepage": "https://github.com/nkuldeep/convert-utm#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
